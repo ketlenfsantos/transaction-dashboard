@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-04-10T19:19:19.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 5000,
+      "createdAt": "2024-04-10T19:19:19.505Z"
+    },
+    {
+      "description": "Xis",
+      "price": 50,
+      "category": "Lazer",
+      "type": "income",
+      "createdAt": "2024-04-22T19:39:24.028Z",
+      "id": 3
+    }
+  ]
+}
