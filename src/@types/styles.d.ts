@@ -1,3 +1,5 @@
+// styled components não é compativel com TS, por isso esse arquivo
+
 import 'styled-components';
 import { defaultTheme } from '../styles/themes/default';
 

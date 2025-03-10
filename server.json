@@ -23,6 +23,22 @@
       "type": "income",
       "createdAt": "2024-04-22T19:39:24.028Z",
       "id": 3
+    },
+    {
+      "description": "Pizza",
+      "price": 10,
+      "category": "10",
+      "type": "income",
+      "createdAt": "2025-03-10T13:38:40.668Z",
+      "id": 4
+    },
+    {
+      "description": "hamburguer",
+      "price": 100,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2025-03-10T13:39:05.355Z",
+      "id": 5
     }
   ]
 }
